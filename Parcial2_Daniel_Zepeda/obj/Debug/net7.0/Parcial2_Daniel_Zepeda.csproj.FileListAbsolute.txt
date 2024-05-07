@@ -1,0 +1,14 @@
+C:\Users\Damia\source\repos\Parcial2_Daniel_Zepeda\bin\Debug\net7.0\Parcial2_Daniel_Zepeda.exe
+C:\Users\Damia\source\repos\Parcial2_Daniel_Zepeda\bin\Debug\net7.0\Parcial2_Daniel_Zepeda.deps.json
+C:\Users\Damia\source\repos\Parcial2_Daniel_Zepeda\bin\Debug\net7.0\Parcial2_Daniel_Zepeda.runtimeconfig.json
+C:\Users\Damia\source\repos\Parcial2_Daniel_Zepeda\bin\Debug\net7.0\Parcial2_Daniel_Zepeda.dll
+C:\Users\Damia\source\repos\Parcial2_Daniel_Zepeda\bin\Debug\net7.0\Parcial2_Daniel_Zepeda.pdb
+C:\Users\Damia\source\repos\Parcial2_Daniel_Zepeda\obj\Debug\net7.0\Parcial2_Daniel_Zepeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damia\source\repos\Parcial2_Daniel_Zepeda\obj\Debug\net7.0\Parcial2_Daniel_Zepeda.AssemblyInfoInputs.cache
+C:\Users\Damia\source\repos\Parcial2_Daniel_Zepeda\obj\Debug\net7.0\Parcial2_Daniel_Zepeda.AssemblyInfo.cs
+C:\Users\Damia\source\repos\Parcial2_Daniel_Zepeda\obj\Debug\net7.0\Parcial2_Daniel_Zepeda.csproj.CoreCompileInputs.cache
+C:\Users\Damia\source\repos\Parcial2_Daniel_Zepeda\obj\Debug\net7.0\Parcial2_Daniel_Zepeda.dll
+C:\Users\Damia\source\repos\Parcial2_Daniel_Zepeda\obj\Debug\net7.0\refint\Parcial2_Daniel_Zepeda.dll
+C:\Users\Damia\source\repos\Parcial2_Daniel_Zepeda\obj\Debug\net7.0\Parcial2_Daniel_Zepeda.pdb
+C:\Users\Damia\source\repos\Parcial2_Daniel_Zepeda\obj\Debug\net7.0\Parcial2_Daniel_Zepeda.genruntimeconfig.cache
+C:\Users\Damia\source\repos\Parcial2_Daniel_Zepeda\obj\Debug\net7.0\ref\Parcial2_Daniel_Zepeda.dll
