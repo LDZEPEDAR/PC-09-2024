@@ -1,0 +1,14 @@
+C:\Users\Damia\source\repos\Proyecto2\bin\Debug\net7.0\Proyecto2.exe
+C:\Users\Damia\source\repos\Proyecto2\bin\Debug\net7.0\Proyecto2.deps.json
+C:\Users\Damia\source\repos\Proyecto2\bin\Debug\net7.0\Proyecto2.runtimeconfig.json
+C:\Users\Damia\source\repos\Proyecto2\bin\Debug\net7.0\Proyecto2.dll
+C:\Users\Damia\source\repos\Proyecto2\bin\Debug\net7.0\Proyecto2.pdb
+C:\Users\Damia\source\repos\Proyecto2\obj\Debug\net7.0\Proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damia\source\repos\Proyecto2\obj\Debug\net7.0\Proyecto2.AssemblyInfoInputs.cache
+C:\Users\Damia\source\repos\Proyecto2\obj\Debug\net7.0\Proyecto2.AssemblyInfo.cs
+C:\Users\Damia\source\repos\Proyecto2\obj\Debug\net7.0\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Damia\source\repos\Proyecto2\obj\Debug\net7.0\Proyecto2.dll
+C:\Users\Damia\source\repos\Proyecto2\obj\Debug\net7.0\refint\Proyecto2.dll
+C:\Users\Damia\source\repos\Proyecto2\obj\Debug\net7.0\Proyecto2.pdb
+C:\Users\Damia\source\repos\Proyecto2\obj\Debug\net7.0\Proyecto2.genruntimeconfig.cache
+C:\Users\Damia\source\repos\Proyecto2\obj\Debug\net7.0\ref\Proyecto2.dll
